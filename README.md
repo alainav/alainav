@@ -1,5 +1,5 @@
 ### Hola me llamo Alain Álvarez Vergara👋
-##Vivo en Cuba y sirvo A Cristo
+Vivo en Cuba y sirvo A Cristo
 <!--
 **alainav/alainav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
